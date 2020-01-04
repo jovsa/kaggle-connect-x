@@ -8,7 +8,7 @@ if __name__ == "__main__":
     env = make("connectx", debug=True)
     env.reset()
 
-    #get agent
+    # get agent
     my_agent = agents.random_agent.agent
     env.run([my_agent, "random"])
 
