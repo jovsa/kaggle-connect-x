@@ -8,3 +8,4 @@
 * submissions stored at: `kaggle-connect-x/submissions/`
 * run [black](https://pypi.org/project/black/) with the command: `black {source_file_or_directory}
 * run all test with command: `pytest`
+* all relevant packages avaiable at `requirements.txt`
